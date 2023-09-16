@@ -11,4 +11,10 @@ challenge give my previous familiarity with HTML from past lives.
 AFTER THE CHALLENGE COMMENTS
 ____________________________________________________________________________
 
+I found the assignment fairly straight forward and easy as expected 
+My biggest challenge as learning the most efficient use of VS Code to input
+content copied from other sources off the internet. 
 
+So far I am enjoying learning new platforms I am not used too and have 
+limited exposure too such as git, github and xubuntu which I am running from
+virutal box 
